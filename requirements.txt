@@ -1,3 +1,5 @@
 streamlit>=1.57
 pandas>=2.2
 plotly>=6.0
+MATPLOTLIB
+SEABORN
