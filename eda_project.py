@@ -16,7 +16,7 @@ import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
 
-df=pd.read_csv("/content/Breast_Cancer.csv")
+df=pd.read_csv("Breast_Cancer.csv")
 
 df
 
